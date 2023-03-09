@@ -5,6 +5,6 @@ https://www.dmosk.ru/miniinstruktions.php?mini=ansible-examples&ysclid=lf0w98i0m
 # Использование роли и плейбука
 https://www.dmosk.ru/instruktions.php?object=ansible-nginx-install&ysclid=lf0wpw9umn407609993
 
-vi /etc/ansible/hosts                 #hosts
-ansible -m ping all -u ansible -k     #ping
-vi /etc/ansible/play.yml              
+vi /etc/ansible/hosts
+ansible -m ping all -u ansible -k
+vi /etc/ansible/play.yml
